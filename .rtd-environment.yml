@@ -4,12 +4,12 @@ channels:
 
 dependencies:
   - python>=3
-  - setuptools
-  - astropy
-  - matplotlib
-  - numpy
-  - scipy
+  - setuptools  
   - pip:
+    - numpy
+    - astropy
+    - matplotlib
+    - scipy
     - sphinx-automodapi
     - stsci_rtd_theme
     - asdf
