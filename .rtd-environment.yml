@@ -1,12 +1,12 @@
 
 dependencies:
   - python>=3
-  - setuptools  
-  - numpy
+  - setuptools
+  - astropy
   - matplotlib
+  - numpy
   - scipy
-  - pip:  
-    - astropy
+  - pip:
     - sphinx-automodapi
     - stsci_rtd_theme
     - asdf
