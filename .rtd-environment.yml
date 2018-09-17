@@ -8,8 +8,8 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
-  - astropy
   - pip:  
+    - astropy
     - sphinx-automodapi
     - stsci_rtd_theme
     - asdf
