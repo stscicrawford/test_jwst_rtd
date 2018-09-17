@@ -5,8 +5,8 @@ channels:
 dependencies:
   - python>=3
   - setuptools  
-  - pip:
-    - numpy
+  - numpy
+  - pip:  
     - astropy
     - matplotlib
     - scipy
