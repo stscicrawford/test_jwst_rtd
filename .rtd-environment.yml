@@ -25,3 +25,20 @@ dependencies:
     - six
     - verhawk
     - sphinx_rtd_theme
+    - Cython>=0.21
+    - jinja2>=2.7
+    - pyyaml
+    - h5py
+    - scikit-image
+    - pandas
+    - pytz
+    - beautifulsoup4
+    - ipython
+    - mpmath
+    - matplotlib
+    - scipy
+    - pillow
+    - jplephem
+    - sphinx<1.7
+    - sphinx-astropy
+    - sphinx-gallery
